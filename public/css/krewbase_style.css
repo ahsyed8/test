@@ -1,0 +1,28 @@
+body{
+    font-size:1.6em;
+}
+.navbar-default{
+    border:none;
+}
+
+.navbar-default{
+    background-color:transparent;
+}
+
+.navbar-brand{
+    font-size:2.3em;
+}
+
+.logo{
+    height:30px;
+    width:auto;
+    margin-right:2px;
+}
+
+.splash{
+    color:#FFF;
+    background-image:url('/images/splash-bg.jpg');
+    background-size:cover;
+    background-color:#401e83;
+    min-height:300px;
+}
