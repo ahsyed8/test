@@ -42,7 +42,7 @@
                     Laravel 5
                 </div>
                 <div>
-                    <a href="/feature">Here is a link to a feature we are developing</a>
+                    <a href="/feature">We didn't like that feature so we deleted it</a>
                 </div>
             </div>
         </div>

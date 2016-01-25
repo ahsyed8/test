@@ -29,7 +29,7 @@ Route::get('/', function () {
 });
 
 Route::get('/feature', function () {
-    return "Wow this is a really cool feature";
+    return "This function has been delted";
 });
 
 Route::get('/krewbase',function(){
