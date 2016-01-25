@@ -42,7 +42,7 @@
                     Laravel 5
                 </div>
                 <div>
-                    This is the master branch
+                    <a href="/feature">Here is a link to a feature we are developing</a>
                 </div>
             </div>
         </div>

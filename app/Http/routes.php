@@ -28,6 +28,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/feature', function () {
+    return "Wow this is a really cool feature";
+});
+
 Route::get('/krewbase',function(){
     return view('krewbase.splash');
 });
