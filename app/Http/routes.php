@@ -29,7 +29,7 @@ Route::get('/', function () {
 });
 
 Route::get('/feature', function () {
-    return "This function has been delted";
+    return "This function has been deleted";
 });
 
 Route::get('/krewbase',function(){

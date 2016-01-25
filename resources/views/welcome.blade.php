@@ -43,7 +43,7 @@
                 </div>
                 <div>
                     <strong>
-                        WOW! Everything is working great this is the master branch.
+                        WOW! Everything is working great.
                     </strong>
                 </div>
             </div>
