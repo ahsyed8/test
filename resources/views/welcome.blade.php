@@ -44,9 +44,6 @@
                 <div>
                     This is the master branch
                 </div>
-                <div>
-                    Now we added the test branch
-                </div>
             </div>
         </div>
     </body>
