@@ -42,7 +42,9 @@
                     Laravel 5
                 </div>
                 <div>
-                    <a href="/feature">We didn't like that feature so we deleted it</a>
+                    <strong>
+                        WOW! Everything is working great this is the master branch.
+                    </strong>
                 </div>
             </div>
         </div>
